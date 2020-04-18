@@ -1,13 +1,3 @@
-# coding=utf-8
-
-# 都是抄别人的，侵权不究
-
-# typhoonbxq
-
-# the University of Hong Kong
-
-# Reference: http://blog.leanote.com/post/jevonswang/python%E8%AF%BB%E5%8F%96mnist%E6%95%B0%E6%8D%AE%E9%9B%86
-
 
 import numpy as np
 
