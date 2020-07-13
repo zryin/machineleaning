@@ -1,0 +1,1 @@
+main1,main2,main3,main4分别是存放4个不同的主函数负责画不同的图，myselect.py和bayes.py存放主函数需要调用的函数
